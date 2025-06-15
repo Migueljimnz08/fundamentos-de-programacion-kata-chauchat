@@ -20,7 +20,7 @@ let chauchat = (arr) => {
 console.log(chauchat(cargador));
 
 
-
+// Prueba con .forEach
 //return arr.forEach(bul => {
   //      console.log(bul);
    // });}
